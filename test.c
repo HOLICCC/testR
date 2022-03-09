@@ -2,6 +2,8 @@
 
 int main(void)
 {
-    printf("yes");
+    int a = 10;
+    printf("%d", a);
+
     return 0;
 }
