@@ -48,3 +48,15 @@
 Csgo|10|3
 Pubg|20|4
 LOL|10|5
+
+## 插入代码片段
+
+```c
+#include <stdio.h>
+
+int main(void)
+{
+	return 0;
+}
+```
+
