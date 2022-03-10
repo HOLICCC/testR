@@ -59,4 +59,7 @@ int main(void)
 	return 0;
 }
 ```
+```bash
+echo "hello world"
+```
 
